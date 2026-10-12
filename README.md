@@ -15,7 +15,7 @@ O **SAFE-FALL** é um dispositivo vestível (*wearable*) de deteção inteligent
 
 ## 📁 Apresentação e Documentação do Projeto
 
-- **Apresentação em PDF:** [📄 Consultar Apresentação do Projeto (Safe Fall)](./Apresentacao_Safe_Fall.pdf)
+📄 **[Ver Apresentação do Projeto (Google Drive / PDF)]: https://docs.google.com/presentation/d/1zpg2jwoKX8tEM7ldwJZ7bTD8ZdQMmkxT/edit?usp=drive_link&ouid=106902540488568723347&rtpof=true&sd=true
 - **Modelo de Áudio Impulse:** Ficheiro de biblioteca Arduino exportado (`ei-safefall-voice-recognition-arduino-1.0.1-impulse-#1.zip`).
 
 ---
